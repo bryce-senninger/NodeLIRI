@@ -33,13 +33,13 @@ Within the liri.js file, the app runs by checking passed command line arguments 
 ## Technologies Implemented
 
 This project uses:
-*Javascript
-*Node.js
-*npm dependencies
-    *dotenv
-    *moment
-    *axios
-    *node-spotify-api
+* Javascript
+* Node.js
+* npm dependencies
+    * dotenv
+    * moment
+    * axios
+    * node-spotify-api
 
 ## Links
 
