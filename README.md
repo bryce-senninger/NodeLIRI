@@ -6,15 +6,15 @@ I created this app with the intention of providing users access to information f
 
 ## Instructions for Operation
 
-### node liri.js concert-this <artist/band name here>
+### node liri.js concert-this //artist or band name here//
 
 By typing in this line whatever artist or band is passed in will hit the Bands in Town API and return relevant data to the user; such as concert location, venue, and date.
 
-### node liri.js spotify-this-song <song name here>
+### node liri.js spotify-this-song //song name here//
 
 This line will allow the user to hit the Spotify API and return results matching the sent song title parameters. The console will populate with artist(s) names, a link to preview the song, and album information for various result matches.
 
-### node liri.js movie-this <move title here>
+### node liri.js movie-this //movie title here//
 
 This command will hit the OMDb API with the searched title and return data about the movie's official release language, a plot synopsis, list of actors, and the rotten tomatoes score.
 
@@ -33,13 +33,13 @@ Within the liri.js file, the app runs by checking passed command line arguments 
 ## Technologies Implemented
 
 This project uses:
-    -Javascript
-    -Node.js
-    -npm dependencies
-        --dotenv
-        --moment
-        --axios
-        --node-spotify-api
+*Javascript
+*Node.js
+*npm dependencies
+    *dotenv
+    *moment
+    *axios
+    *node-spotify-api
 
 ## Links
 
